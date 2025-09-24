@@ -31,7 +31,7 @@ Lista desordenada
 
 [Enlace a readme.md](./README.md)
 
-![imagen de mis gambas](./Fotogambas.heif)
+![imagen de mis gambas](./Fotogambas.jpg)
 
 | Animal   | Peligroso |  Venenoso  |
 |----------|-----------|------------|
