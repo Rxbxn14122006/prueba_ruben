@@ -29,9 +29,9 @@ Lista desordenada
 [Enlace a diario MARCA](https://www.marca.com/)
 
 
-[Enlace a readme.md](/c/Users/Ruben2/prueba_ruben/readme.md)
+[Enlace a readme.md](./readme.md)
 
-![imagen de mis gambas](fotogambas.heif)
+![imagen de mis gambas](./fotogambas.heif)
 
 | Animal   | Peligroso |  Venenoso  |
 |----------|-----------|------------|
